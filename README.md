@@ -11,3 +11,5 @@ To run the application on your local system -
     
 3. Hit the following url to populate hospital table via spring batch
     http://localhost:8080/job  
+    
+4. Run department.sql and doctor.sql in your local database to populate the department and doctor table
